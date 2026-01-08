@@ -4,7 +4,6 @@
 
 This project presents an AI-based computer vision model that detects waste items from a given image and estimates the **percentage of recyclability** of the detected content. The model is designed to support sustainability and smart waste management initiatives by providing an intuitive recyclability score along with a clear, human-readable message.
 
-The project was developed as part of the **IEEE SIGHT Tunisia Section Challenge** within **TSYP**, with a focus on humanitarian and environmental impact.
 
 ---
 
@@ -137,6 +136,7 @@ This project is intended for educational and research purposes. Licensing detail
 
 ## 📬 Contact
 
-For questions, collaboration, or feedback, feel free to reach out through IEEE channels or GitHub issues.
+For questions, collaboration, or feedback, feel free to reach out through GitHub issues.
 
 *Developed with a commitment to sustainability and humanitarian technology.* 🌱
+
